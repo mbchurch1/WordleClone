@@ -11,8 +11,8 @@ def get_word_and_list():
     f = open('wordlist.txt')
     new_word = f.readline()
     word_list = list(new_word)
-    print(new_word)
-    print(word_list)
+    # print(new_word)
+    # print(word_list)
     word = Word(new_word, word_list)
     f.close()
     return word
