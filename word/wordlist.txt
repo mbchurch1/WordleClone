@@ -1,0 +1,6 @@
+Thing
+Paper
+Adult
+Apple
+Chain
+Clock
